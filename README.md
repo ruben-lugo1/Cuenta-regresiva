@@ -16,7 +16,7 @@ Captura de Pantalla 2.png
 - Diseño practico, simple y elegante.
 - Información exacta del día de inauguración o lanzamiento del evento.
 - Sección de redes sociales.
-- 
+
 ## Tecnologías Utilizadas
 
 - HTML
