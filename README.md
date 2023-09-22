@@ -10,11 +10,6 @@ Practico y elegante contador regresivo para para informar y generar espectativa 
 
 <img src="https://raw.githubusercontent.com/ruben-lugo1/Cuenta-regresiva/main/Captura%20de%20Pantalla%202023-09-22%20a%20la(s)%2015.05.05.png">
 
-
-
-
-
-
 ## Características
 
 - Diseño practico, simple y elegante.
