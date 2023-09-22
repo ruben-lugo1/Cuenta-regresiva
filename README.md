@@ -8,7 +8,8 @@ Practico y elegante contador regresivo para para informar y generar espectativa 
 
 ## Capturas de Pantalla
 
-![Imagen de mi proyecto](./Captura%20de%20Pantalla%202023-09-22%20a%20las%2015.05.05.png)
+![ ](https://github.com/tu-usuario/tu-repositorio/raw/main/images/Captura%20de%20Pantalla%202023-09-22%20a%20las%2015.05.05.png)
+
 
 
 
