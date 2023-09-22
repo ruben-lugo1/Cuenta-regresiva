@@ -1,6 +1,6 @@
 <h1>Proyecto de creacion de un contador regresivo</h1>
 
-Puedes acceder al sitio web en línea en: https://flourishing-platypus-47d227.netlify.app/
+Puedes acceder al sitio web en línea en: https://illustrious-buttercream-0a8fed.netlify.app/
 
 ## Descripción
 
