@@ -4,7 +4,7 @@ Puedes acceder al sitio web en línea en: https://illustrious-buttercream-0a8fed
 
 ## Descripción
 
-Practico y elegante contador regresivo para para informar y generar espectativa a la hora de lanzar tu pagina web, inaugurar tu tienda o cualquiel otro tipo e eventos online.
+Practico y elegante contador regresivo para para informar y generar expectativa a la hora de lanzar tu pagina web, inaugurar tu tienda o cualquier otro tipo e eventos online.
 
 ## Capturas de Pantalla
 
